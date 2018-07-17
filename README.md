@@ -1,4 +1,3 @@
 # jenkinsdemo
-Removed extra lines
-Hello friend
-How are you?
+
+This is a sample file update.
