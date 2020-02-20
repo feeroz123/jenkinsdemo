@@ -11,7 +11,7 @@ public class HelloWorld {
 		
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("Hello world, I am new Here !");
+			System.out.println("Hello dear world, I am new Here !");
 		}
 		
 	}
