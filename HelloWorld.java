@@ -11,8 +11,7 @@ public class HelloWorld {
 		
 		for(int i=1;i<=10;i++)
 		{
-			System.out.println("Hello guys, I am new in Bangalore !");
-			System.out.println("Hello guys, How are you?");
+			System.out.println("Hello guys, I am new in Chennai !");
 		}
 		
 	}
